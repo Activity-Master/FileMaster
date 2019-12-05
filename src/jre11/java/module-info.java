@@ -1,3 +1,3 @@
-module com.armineasy.activitymaster.files {
+module com.guicedee.activitymaster.files {
 
 }
