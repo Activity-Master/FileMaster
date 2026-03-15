@@ -13,7 +13,11 @@
     <artifactId>file-master</artifactId>
     <packaging>jar</packaging>
     <name>File Master</name>
-	
+
+    <properties>
+        <project.scm.nameUrl>/Activity-Master/FilesMaster</project.scm.nameUrl>
+    </properties>
+
     <dependencies>
      
     </dependencies>
